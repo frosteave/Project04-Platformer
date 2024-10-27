@@ -1,12 +1,19 @@
 # Project04-Platformer
 
 # Project Name
-Context and date
+Platformer Oct. 26
 
-Description
+Use A and D to move, space to jump! Collect the keys to move onto the next level.
 
 ## Implementation
-Which features you included.
+Added 3 levels
+All sprite/art assets created by me.
+Created player and enemy animation.
+Created 3 enemies (different animations each)
+Added a background track (https://freesound.org/people/blouhond/sounds/157947/)
+Loosly themed it around my Inky project. 
+Reports a score at the end.
+Added an end screen.
 
 ## References
 
@@ -17,3 +24,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
+Alyssa Luckritz
